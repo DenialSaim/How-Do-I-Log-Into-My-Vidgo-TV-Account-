@@ -1,4 +1,4 @@
-How to Login to Peacock TV: A Step-by-Step Guide     
+How Do I Log Into My Vidgo TV Account?     
 ============================================
  
 .. toctree::
