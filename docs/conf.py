@@ -1,4 +1,4 @@
-project = '-'
+project = 'Vidgo TV Account Login'
 author = 'Your Name'
 release = '1.0'
  
